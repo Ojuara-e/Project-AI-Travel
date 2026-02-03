@@ -87,7 +87,7 @@ with col_btn:
 # Caixa de texto (label)
 with col_box:
     st.markdown(
-        "<div style='border:1px solid #ccc; padding:6px 10px; border-radius:6px; text-align:center;'>Curso Online, Gratuito e Com Certificado de Conclusão</div>",
+        "<div style='border:1px solid #ccc; padding:6px 10px; border-radius:6px; text-align:center;'>Projeto Criado por Ellihas Freitas</div>",
         unsafe_allow_html=True
     )
 
